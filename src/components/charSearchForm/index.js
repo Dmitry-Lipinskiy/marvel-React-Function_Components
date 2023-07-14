@@ -1,0 +1,1 @@
+export { CharSearchForm } from './CharSearchForm';

@@ -1,0 +1,1 @@
+export { useMarvelService } from './MarvelService';
